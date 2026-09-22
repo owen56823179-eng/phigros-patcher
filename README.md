@@ -15,3 +15,5 @@ that's the reason you will see the start screen shows 3.19.2, dont worry, the in
 
 # some other things
 i am only going to relese a exe after compile, the project is based on python, if needed i may relese the orignal code
+(already relese source code)
+
